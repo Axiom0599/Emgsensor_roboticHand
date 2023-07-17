@@ -2,14 +2,12 @@
 
 
 
-Well atleast this was the original idea. We made something else.
+Well at least this was the original idea. We made something else.
 
 
 
 
 Exoglove
-
-
 
 
 The Exoglove is a wearable device designed to assist users in monitoring and optimizing their muscle activation during physical activities. Our device incorporates EMG (electromyography) sensors that capture analog data from the user's muscles.
